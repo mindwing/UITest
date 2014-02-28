@@ -1,6 +1,6 @@
 UITest
 ======
-
+test
 Android UI Test
 a
 222
